@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets\giphy.gif" alt="isolated" width="200"/>
+    <img src="./assets/yugansh.jpg" alt="isolated" width="200" style="border-radius:50%"/>
 </p>
 
 
@@ -85,11 +85,21 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 
 ## Project Highlights
 
-**Implemented Oracle Complexity of Nonsmooth Nonconvex Distributed Stochastic Optimization.** </br>
-*November 2022 – January 2023*
+**Implemented Oracle Complexity of Nonsmooth Nonconvex Distributed Stochastic Optimization.**  
+*November 2022 – January 2023*  
 The algorithm used distributed training methodology and was implemented to leverage multiple GPUs for training.
 * I leveraged 2 GPUs for training and used ResNet-20 as the Model.
 * I did a comparative analysis of our algorithm to distributed SGD and distributed ADAM algorithms.
 * I successfully proved the hypothesis of convergence and performance boost compared to ADAM and SGD by 14.21% and 0.86% in accuracy,respectively.
 * Github repo [link](https://github.com/yugpsyfer/DINSGD).
 * The paper has been submitted to NeurIPS 23 conference.
+
+---
+
+<div class="contact" align="center">
+<a href="mailto: yugansh.singh@gmail.com"><img src="./assets/912305.avif" alt="Email id" width="100"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/yugpsyfer"><img src="./assets/giphy.gif" alt="Email id" width="100" style="border-radius:50%"></a>
+
+</div>
+
