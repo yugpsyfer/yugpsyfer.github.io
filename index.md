@@ -39,13 +39,15 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 ---
 ## Work Experience
 
+
 **Company:** Qualcomm India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Hyderabad  
 **Position:** Engineer 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Duration:** July 2023 - *Curently working*  
 **Description:** Will update soon.
 
-</br>
+&nbsp;
+&nbsp;
 
 **Company:** Verizon India Pvt. Ltd.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,13 +63,15 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 
 ## Education
 
+
 **Institute:** IIIT Delhi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Degree:** M.Tech in Computer Science and Engineering  
 **Major Field of study:** Aritificial Intelligence and Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** 8.7  
-**Duration:** August 2021 - May 2023
+**Duration:** August 2021 - May 2023  
 
-</br>
+&nbsp;
+&nbsp;
 
 **Institute:** Galgotias University
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
