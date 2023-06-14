@@ -39,19 +39,19 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 ---
 ## Work Experience
 
-**Company:** Qualcomm India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Hyderabad </br>
+**Company:** Qualcomm India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Hyderabad  
 **Position:** Engineer 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Duration:** July 2023 - *Curently working* </br>
+**Duration:** July 2023 - *Curently working*  
 **Description:** Will update soon.
 
 </br>
 
 **Company:** Verizon India Pvt. Ltd.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Location:** Chennai </br>
+**Location:** Chennai  
 **Position:** Member of techincal Staff 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Duration:** July 2019 - May 2020 </br>
+**Duration:** July 2019 - May 2020  
 **Description:** Developed and migrated a project from an old monolithic technology stack to a new modular microservice-based stack.
 * Developed the application's backend from scratch and served data via pre-prod MYSQL server.
 * Used open-source tools and deployed the entire application on a pre-production server on AWS.
@@ -63,18 +63,18 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 
 **Institute:** IIIT Delhi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Degree:** M.Tech in Computer Science and Engineering </br>
-**Major Field of study:** Aritificial Intelligence and Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** 8.7 </br>
+**Degree:** M.Tech in Computer Science and Engineering  
+**Major Field of study:** Aritificial Intelligence and Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** 8.7  
 **Duration:** August 2021 - May 2023
 
 </br>
 
 **Institute:** Galgotias University
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Degree:** B.Tech in Computer Science and Engineering </br>
+**Degree:** B.Tech in Computer Science and Engineering  
 **Major Field of study:** Cloud computing and Virtualization 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**CGPA:** 8.34 </br>
+**CGPA:** 8.34  
 **Duration:** August 2015 - May 2019
 
 ---
