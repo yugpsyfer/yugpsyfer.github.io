@@ -4,14 +4,14 @@
 
 
 <p align="center">
-Hello, I am Yugansh a computer science postgraduate. I love to wite self-automated(conscious maybe? <img src="./assets/wink.png" alt="isolated" width="20"/> ) and intelligent code.
+Hello, I am Yugansh a computer science postgraduate. I love to wite self-automated(conscious maybe? <img src="./assets/wink.png" alt="isolated" width="20"/> ) and intelligent code. My main interest is in machine learning and computer vision. Currently I am working at Qualcomm as an Engineer where I generally write low level code.  
 </p>
 
 ---
 
 
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Technological Expertise</h2>
 
 <div align="center">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="isolated" width="100"/>
@@ -67,7 +67,7 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 **Institute:** IIIT Delhi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Degree:** M.Tech in Computer Science and Engineering  
-**Major Field of study:** Aritificial Intelligence and Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** 8.7  
+**Major Field of study:** Aritificial Intelligence and Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** 8.7/10  
 **Duration:** August 2021 - May 2023  
 
 &nbsp;
@@ -78,7 +78,7 @@ Hello, I am Yugansh a computer science postgraduate. I love to wite self-automat
 **Degree:** B.Tech in Computer Science and Engineering  
 **Major Field of study:** Cloud computing and Virtualization 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**CGPA:** 8.34  
+**CGPA:** 8.34/10  
 **Duration:** August 2015 - May 2019
 
 ---
